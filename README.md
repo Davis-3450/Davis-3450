@@ -4,3 +4,5 @@ Under construction, quite literally...
 
 
 ![alt](assets/Aoba_Suzukaze_techgo_Python_For_Beginners.png)
+
+_I'm the anomaly_
