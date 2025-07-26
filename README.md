@@ -8,5 +8,3 @@ Under construction, quite literally...
 I love building and automating stuff, sadly the cool stuff can't be public.
 
 _I'm the anomaly_
-
-<img src="https://github-readme-stats.vercel.app/api?username=Davis-3450&include_all_commits=true" />
