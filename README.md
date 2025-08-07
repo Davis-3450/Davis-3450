@@ -4,4 +4,6 @@ Under construction, quite literally...
 
 I love building and automating stuff, sadly the cool stuff can't be public.
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,astro,python,ts,fastapi,django)](https://skillicons.dev)
+
 _I'm the anomaly_
