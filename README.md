@@ -38,3 +38,8 @@ I love building and automating stuff, sadly the coolest stuff can't be public.
 <p align="center">
 <i>I'm the anomaly</i>
 </p>
+
+<p align="center">
+<br>
+  <img src="https://komarev.com/ghpvc/?username=Davis-3450&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
