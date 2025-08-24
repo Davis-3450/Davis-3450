@@ -7,7 +7,7 @@ Change is scary... but so is staying the same. 🌸
 ![alt](assets/Aoba_Suzukaze_techgo_Python_For_Beginners.png)
 
 <p align="center">
-I love building and automating stuff, sadly the coolest stuff can't be public.
+Building cool stuff behind the scenes 🍓
 </p>
 
 <p align="center">
