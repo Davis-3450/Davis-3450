@@ -36,7 +36,7 @@ Building cool stuff behind the scenes 🍓
 </p>
 
 <p align="center">
-<i>I'm the anomaly</i>
+<i>powered by ☕️</i>
 </p>
 
 <p align="center">
