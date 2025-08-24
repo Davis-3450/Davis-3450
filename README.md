@@ -1,4 +1,6 @@
-Under construction, quite literally...
+Better late than never.
+
+Change is scary... but so is staying the same. 🌸
 
 ![alt](assets/Aoba_Suzukaze_techgo_Python_For_Beginners.png)
 
