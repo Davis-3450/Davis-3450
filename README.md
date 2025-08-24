@@ -1,7 +1,7 @@
 <p align="center">
 Better late than never.
 <br>
-Change is scary... but so is staying the same. 🌸
+<i>Change is scary... but so is staying the same. 🌸</i>
 </p>
 
 ![alt](assets/Aoba_Suzukaze_techgo_Python_For_Beginners.png)
@@ -36,10 +36,8 @@ Building cool stuff behind the scenes 🍓
 </p>
 
 <p align="center">
-<i>powered by ☕️</i>
+powered by ☕️
 </p>
-
 <p align="center">
-<br>
   <img src="https://komarev.com/ghpvc/?username=Davis-3450&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
