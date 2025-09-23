@@ -2,9 +2,11 @@
 Better late than never.
 <br>
 <i>Change is scary... but so is staying the same. 🌸</i>
+<p align="center">
+<img src="assets/Aoba_Suzukaze_techgo_Python_For_Beginners.png" width="400" align="center">
 </p>
-
-<img src="assets/Aoba_Suzukaze_techgo_Python_For_Beginners.png">
+  
+</p>p
 
 <p align="center">
 Building cool stuff behind the scenes 🍓
