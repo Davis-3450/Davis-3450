@@ -4,7 +4,7 @@ Better late than never.
 <i>Change is scary... but so is staying the same. 🌸</i>
 </p>
 
-![alt](assets/Aoba_Suzukaze_techgo_Python_For_Beginners.png)
+<img src="assets/Aoba_Suzukaze_techgo_Python_For_Beginners.png">
 
 <p align="center">
 Building cool stuff behind the scenes 🍓
