@@ -6,7 +6,7 @@ Better late than never.
 <img src="assets/Aoba_Suzukaze_techgo_Python_For_Beginners.png" width="400" align="center">
 </p>
   
-</p>p
+</p>
 
 <p align="center">
 Building cool stuff behind the scenes 🍓
