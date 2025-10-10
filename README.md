@@ -1,7 +1,7 @@
 <p align="center">
-Better late than never.
+<!-- Better late than never. -->
 <br>
-<i>Change is scary... but so is staying the same. 🌸</i>
+<!-- <i>Change is scary... but so is staying the same. 🌸</i> -->
 <p align="center">
 <img src="assets/Aoba_Suzukaze_techgo_Python_For_Beginners.png" width="300" align="center">
 </p>
