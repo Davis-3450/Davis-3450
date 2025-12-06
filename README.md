@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-Building cool stuff behind the scenes 🍓
+Crafting beautiful, "useful" stuff 🍓
 </p>
 
 <p align="center">
