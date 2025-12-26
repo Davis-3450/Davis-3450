@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-Crafting beautiful, "useful" stuff 🍓
+<i>Crafting beautiful, "useful" stuff 🍓</i>
 </p>
 
 <p align="center">
