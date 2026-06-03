@@ -37,6 +37,15 @@
   </a>
 </p>
 
+---
+ 
+```
+20s · self-taught · 🇨🇴
+InfoSec · offensive sec · systems · full-stack
+```
+ 
+---
+
 <p align="center">
 powered by ☕️
 </p>
